@@ -1,9 +1,5 @@
---[[
-    Information:
-    Constant.cc
-    Developed by Qv
-    Started: 17/04/2025
-]]--
+-- All credits go to Axure (@axur.e) on Discord
+-- Fixed the weaponObject & getupvalue errors
 
 
 if not LPH_OBFUSCATED then
