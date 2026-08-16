@@ -1,5 +1,3 @@
-# Blackout: Revival 
--- Last edited 16/08/2026
+# x3i8012398x1293x123x
 
-
-Have fun!
+-- Usually just random stuff, or things I bothered enough to fix.
